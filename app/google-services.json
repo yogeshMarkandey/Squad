@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "556055997878",
+    "firebase_url": "https://outstagram-a5262.firebaseio.com",
+    "project_id": "outstagram-a5262",
+    "storage_bucket": "outstagram-a5262.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556055997878:android:38434d1532d98c9468e517",
+        "android_client_info": {
+          "package_name": "com.example.outstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556055997878-btcu0raka5j9nhrl6q1ddp1il95ss061.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIcbccDfBO--IJ9G34Wvqfk2DMuImLllI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556055997878-btcu0raka5j9nhrl6q1ddp1il95ss061.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
