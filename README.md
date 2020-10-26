@@ -9,11 +9,7 @@ It also provides chat features to the users and chats are encrypted using AES Al
 
 
 ## What I have learned form this Project?
-
-> AES Encryption in Android
-
-> Handeling User Login using Firebase Authentication.
-
-> Storing and retrieving Images in Firestore.
-
-> Image Processing using Glide.
+* AES Encryption in Android
+* Handeling User Login using Firebase Authentication.
+* Storing and retrieving Images in Firestore.
+* Image Processing using Glide.
